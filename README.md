@@ -71,7 +71,7 @@ This isn't a simple click-recording script. It's a **state machine** that coordi
 
 ### Three-Layer Design
 
-```
+```text
 ┌─────────────────────────────────────┐
 │   Layer 1: Profile Management       │
 │   (Window activation, UI navigation)│

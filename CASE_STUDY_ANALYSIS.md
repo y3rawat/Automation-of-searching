@@ -133,7 +133,9 @@ Using `timeit.default_timer()` for execution timing shows this isn't a "set and 
 7. **Conclusion: When to Automate vs. When to Build Tools**
    - This automation is valuable because the problem is repetitive and stable
    - Key insight: Automation ROI requires considering time savings value, frequency of task execution, and ongoing maintenance costs
-   - Formula consideration: ((Time Saved per Execution × Value per Hour × Execution Frequency × Time Period) - (Build Cost + Maintenance Cost)) / (Build Cost + Maintenance Cost)
+   - Standard ROI formula: ROI = ((Benefits - Costs) / Costs) × 100%
+   - Where Benefits = Time Saved per Execution × Value per Hour × Execution Frequency × Time Period
+   - And Costs = Build Cost + Maintenance Cost
 
 ---
 

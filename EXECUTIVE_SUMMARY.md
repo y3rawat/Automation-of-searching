@@ -198,7 +198,7 @@ Building a production system that:
 **If Seeking Employment:**
 - Add this to portfolio with case study write-up
 - Emphasize: system design, production hardening, cross-platform thinking
-- Highlight: 96% time reduction, 10x capacity increase
+- Highlight: 94% time reduction, 10x capacity increase
 
 **If Building Product:**
 - Externalize configuration (lower barrier to entry)
